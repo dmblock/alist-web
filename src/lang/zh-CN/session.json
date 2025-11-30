@@ -1,0 +1,21 @@
+{
+  "device_id": "设备 ID",
+  "user_id": "用户 ID",
+  "username": "用户名",
+  "system_info": "系统信息",
+  "ip": "IP 地址",
+  "last_active": "最后活跃时间",
+  "status": "状态",
+  "active": "在线",
+  "offline": "离线",
+  "kick_out": "踢出",
+  "kick_out_confirm": "确定要踢出该会话吗？",
+  "kick_out_success": "会话踢出成功",
+  "kick_out_failed": "踢出会话失败",
+  "kick_out_current_session": "当前会话已被踢出，请重新登录。",
+  "too_many_devices": "已达设备数量上限，请联系管理员在“我的会话”中踢出其他设备。",
+  "session_inactive": "当前会话已失效，请重新登录。",
+  "clean": "清理非活跃会话",
+  "clean_success": "非活跃会话清理成功",
+  "clean_failed": "清理会话失败"
+}
